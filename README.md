@@ -50,9 +50,6 @@ The goal of this repository is to:
 
 This repository follows the React course by SuperSimpleDev.
 
-Course Repository:  
-https://github.com/SuperSimpleDev/react-course
-
 ## 📝 Note
 
 This is a personal learning repository. The code is written while learning concepts and completing exercises from the course.
