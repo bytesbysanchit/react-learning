@@ -17,8 +17,8 @@ This repository contains my practice code, exercises, and projects as I learn Re
 
 ### React Basics
 
-- [ ] Introduction to React
-- [ ] JSX
+- [X] Introduction to React
+- [X] JSX
 - [ ] Components
 - [ ] Props
 - [ ] State
