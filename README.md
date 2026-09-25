@@ -19,10 +19,10 @@ This repository contains my practice code, exercises, and projects as I learn Re
 
 - [X] Introduction to React
 - [X] JSX
-- [ ] Components
-- [ ] Props
-- [ ] State
-- [ ] Event Handling
+- [x] Components
+- [x] Props
+- [x] State
+- [x] Event Handling
 - [ ] Hooks
 - [ ] useState
 - [ ] useEffect
