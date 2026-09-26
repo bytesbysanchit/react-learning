@@ -23,9 +23,9 @@ This repository contains my practice code, exercises, and projects as I learn Re
 - [x] Props
 - [x] State
 - [x] Event Handling
-- [ ] Hooks
-- [ ] useState
-- [ ] useEffect
+- [X] Hooks
+- [X] useState
+- [X] useEffect
 - [ ] Forms
 - [ ] React Router
 - [ ] API Integration
